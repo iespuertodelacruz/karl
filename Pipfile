@@ -11,6 +11,8 @@ rope = "*"
 [packages]
 python-telegram-bot = "*"
 prettyconf = "*"
+flask = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
